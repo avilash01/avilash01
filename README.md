@@ -1,5 +1,5 @@
 ## Hi there 👋 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=avilash01&icon=10&color=0" alt="Visit Count" align="right"/></a>
-- 🔭 I’m currently working on **Vue.js**
+- 🔭 I’m currently working on **LLMS**
 - 🌱 I’m currently learning **ML**
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 - 💬 Ask me about **Technology and Personal Development**
